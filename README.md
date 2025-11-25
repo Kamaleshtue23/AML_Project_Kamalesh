@@ -23,30 +23,10 @@ The accompanying report is in `paper/AML_PROJECT.pdf`.
 ```text
 .
 ├── README.md
-├── requirements.txt
-├── data/
-│   ├── cvat/
-│   │   ├── images/      # EL cell images (.png / .jpg)
-│   │   └── masks/       # class-indexed masks (same filenames as images)
-│   └── benchmark/
-│       ├── images/
-│       └── masks/
-├── checkpoints/
-│   └── (models will be saved here)
-├── src/
-│   ├── __init__.py
-│   ├── train.py
-│   ├── eval.py
-│   ├── datasets/
-│   │   ├── __init__.py
-│   │   └── el_dataset.py
-│   ├── models/
-│   │   ├── __init__.py
-│   │   └── factory.py
-│   └── utils/
-│       ├── __init__.py
-│       ├── losses.py
-│       ├── metrics.py
-│       └── transforms.py
-└── paper/
-    └── AML_PROJECT.pdf  # your final report (copy it here)
+├── notebook/
+│   ├── defect_segmentation.ipynb   ← your full project code
+├── sample_predictions/
+├── paper/
+│   └── AML_PROJECT.pdf  :contentReference[oaicite:0]{index=0}
+└── requirements.txt (optional)
+
