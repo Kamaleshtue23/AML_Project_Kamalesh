@@ -1,15 +1,5 @@
 # AML_Project_Kamalesh
 # File: README.md
-# =================
-# Defects Detection in Electroluminescence Images of PV Modules
-#
-# Git repo for the project:
-# "Defects Detection in Electroluminescence Images of Photovoltaic Modules
-#  Using Deep Semantic Segmentation"
-
-# ------------------ README.md ------------------
-# Defects Detection in Electroluminescence Images of Photovoltaic Modules
-# Using Deep Semantic Segmentation
 
 This repository contains the code and artefacts for the project:
 
