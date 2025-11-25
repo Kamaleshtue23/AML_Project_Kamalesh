@@ -24,7 +24,23 @@ The accompanying report is in `paper/AML_PROJECT.pdf`.
 .
 ├── README.md
 ├── notebook/
-│   ├── defect_segmentation.ipynb   
+│   ├──  Segmentation Pipeline.ipynb   
 ├── sample_predictions/
 ├── paper/
-│   └── AML_PROJECT.pdf 
+│   └── AML_PROJECT.pdf
+
+## Google Colab Notebook
+
+Due to the large size of the `.ipynb` file (including all outputs, debugging runs, images, and activation visualizations), the full training notebook is hosted on Google Colab:
+
+🔗 Notebook Link: [https://colab.research.google.com/drive/XXXXXXXXXXXXX](https://colab.research.google.com/drive/1XXEzsj0ou3yl7l0fdW0N0mmy5SKmqSOA?usp=sharing)
+
+This contains:
+- dataset preparation
+- augmentation pipeline
+- model implementations
+- training loops
+- evaluation metrics
+- visualization of predictions
+- feature activation analysis
+
