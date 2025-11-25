@@ -27,6 +27,4 @@ The accompanying report is in `paper/AML_PROJECT.pdf`.
 │   ├── defect_segmentation.ipynb   ← your full project code
 ├── sample_predictions/
 ├── paper/
-│   └── AML_PROJECT.pdf  :contentReference[oaicite:0]{index=0}
-└── requirements.txt (optional)
-
+│   └── AML_PROJECT.pdf 
