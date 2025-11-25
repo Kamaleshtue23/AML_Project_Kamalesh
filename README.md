@@ -24,7 +24,7 @@ The accompanying report is in `paper/AML_PROJECT.pdf`.
 .
 ├── README.md
 ├── notebook/
-│   ├── defect_segmentation.ipynb   ← your full project code
+│   ├── defect_segmentation.ipynb   
 ├── sample_predictions/
 ├── paper/
 │   └── AML_PROJECT.pdf 
